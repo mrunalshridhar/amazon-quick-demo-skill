@@ -1,0 +1,30 @@
+{
+  "skill_name": "custom-demo-creation",
+  "created_at": 1784373935.537781,
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "create custom demo",
+      "description": "Test case 1",
+      "expected_output": ""
+    },
+    {
+      "id": 2,
+      "prompt": "clean custom demo",
+      "description": "Test case 2",
+      "expected_output": ""
+    },
+    {
+      "id": 3,
+      "prompt": "backup custom demo",
+      "description": "Test case 3",
+      "expected_output": ""
+    },
+    {
+      "id": 4,
+      "prompt": "restore custom demo",
+      "description": "Test case 4",
+      "expected_output": ""
+    }
+  ]
+}
